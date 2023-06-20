@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#container{
+    height: 950;
+    width: 1000;
+    border: 30px solid rgb(18, 18, 133);
+    border-radius: 5%;
+    border-style:double;
+    padding: auto;
+    margin: auto;
+}
+
+
+.a{
+    height: 300;
+    width: 1000;
+    background-color: skyblue;
+    float: left;
+    /* border: 2px solid red; */
+}
+.x{
+    height: 150;
+    width: 350;
+    /* background-color: yellow; */
+    /* border: 1px solid; */
+}
+.x1{
+    height: 100px;
+    width: 100px;
+    border: 10px solid red;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 30%;
+    margin-top: 20px;
+    margin-left: 50;
+    padding: 2px;
+}
+.xx{
+    height: 150;
+    width: 350;
+    /* background-color: rgb(255, 242, 242); */
+    /* border: 1px solid; */
+    float: left;
+}
+.xx1{
+    height: 100;
+    width: 100;
+    border: 10px solid yellow;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 30%;
+    margin-top: 20px;
+    margin-left: 50;
+    padding: 2px;
+}
+
+
+
+.a1{
+    height: 300;
+    width: 350;
+    /* border: 1px solid; */
+    float: left;
+    background-color: #9ac5f4;
+}
+
+.a2{
+    height: 300;
+    width: 300;
+    border: px solid;
+    float: left;
+    /* background-color: rgb(0, 0, 0); */
+}
+.p{
+    height: 300;
+    width: 100;
+    border: px solid;
+    float: left;
+    background-color: #a7a5d5;
+}
+.p1{
+    height: 60;
+    width: 100;
+    border: 1px solid;
+    float: left;
+    /* background-color: rgb(161, 15, 228); */
+}
+.a3{
+    height: 300;
+    width: 350;
+    border: px solid;
+    float: right;
+    background-color: #9ac5f4;
+}
+
+
+.b{
+    height: 300;
+    width: 1000;
+    /* border: px solid; */
+    float: left;
+    /* background-color: grey; */
+}
+
+.b1{
+    height: 300;
+    width: 350;
+    /* border: 1px solid; */
+    float: left;
+    /* background-color: rgb(22, 207, 22); */
+}
+.q1{
+    height: 100;
+    width: 365;
+    /* background-color: rgb(33, 38, 34); */
+    /* border: 2px solid; */
+    /* float: left;  */
+}
+.qq{
+    height: 100;
+    width: 65;
+    background-color: #a7a5d5;
+    border: 1px solid;
+    float: left;
+}
+.b2{
+    height:300;
+    width: 300;
+    /* border: 1px solid; */
+    background-color: #a7a5d5;
+    float: left;
+    background-image: url("/ludo/pic.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.b3{
+    height: 300;
+    width: 350;
+    /* border: 1px solid; */
+    float: right;
+    background-color: #a7a5d5;  
+}
+.qq0{
+    height: 100;
+    width: 350;
+    /* background-color: rgb(33, 38, 34); */
+    /* border: 5px solid; */
+    float: left; 
+}
+.qq1{
+    height: 100;
+    width: 65;
+  border: 1px solid;
+    float: right;
+}
+
+
+
+
+.c{
+    height: 350;
+    width: 1000;
+    /* border: px solid; */
+    float: left;
+    /* background-color: violet; */
+}
+
+.zz{
+    height: 150;
+    width: 350;
+    /* background-color: rgb(255, 242, 242); */
+    /* border: 1px solid; */
+    float: left;
+}
+.zz1{
+    height: 100;
+    width: 100;
+    border: 10px solid rgb(8, 8, 90);
+    float: left;
+    box-sizing: border-box;
+    border-radius: 30%;
+    margin-top: 50px;
+    margin-left: 50;
+    padding: 2px;
+}
+
+
+
+.z{
+    height: 150;
+    width: 350;
+    /* background-color: rgb(255, 242, 242); */
+    /* border: 1px solid; */
+    float: left;
+}
+.z1{
+    height: 100;
+    width: 100;
+    border: 10px solid rgb(31, 197, 31);
+    float: left;
+    box-sizing: border-box;
+    border-radius: 30%;
+    margin-top: 50px;
+    margin-left: 50;
+    padding: 2px;
+}
+
+.c1{
+    height: 350;
+    width: 350;
+    /* border: px solid; */
+    float: left;
+    background-color: #9ac5f4;
+}
+.c2{
+    height: 350;
+    width: 300;
+    /* border: px solid; */
+    float: left;
+}
+.r{
+    height: 350;
+    width: 100;
+    /* border: 1px solid; */
+    float: left;
+    /* background-color: rgb(57, 73, 215); */
+}
+.r1{
+    height: 66;
+    width: 100;
+    border: 1px solid;
+    float: left;
+    background-color: #a7a5d5;
+}
+
+
+.c3{
+    height: 350;
+    width: 350;
+    /* border: px solid; */
+    float: right;
+    background-color: #9ac5f4;
+}
+
+
+
+
+
